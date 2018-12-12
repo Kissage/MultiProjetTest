@@ -2,7 +2,7 @@ package com.promod.ModArchi;
 
 /**
  * Hello world!
- *
+ * integration
  */
 public class App 
 {
