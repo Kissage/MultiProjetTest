@@ -14,4 +14,7 @@ public class App
 
 /**
  * Release note : blabla
+ * Release note : blabla
+ * Release note : blabla
+ * Release note : blabla
  */
