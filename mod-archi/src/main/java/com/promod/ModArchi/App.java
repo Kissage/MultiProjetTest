@@ -11,3 +11,10 @@ public class App
         System.out.println( "Salut / Hi!"  + MesConstantes.BEAN_TOTO );
     }
 }
+
+/**
+ * Release note : blabla
+ * Release note : blabla
+ * Release note : blabla
+ * Release note : blabla
+ */
