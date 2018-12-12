@@ -2,11 +2,20 @@
   <modelVersion>4.0.0</modelVersion>
   <name>ModArchi Maven Parent</name>
   <groupId>com.promod</groupId>
-  <artifactId>modarchi-parent</artifactId>
+  <artifactId>mod-archi-parent</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
   <modules>
-    <module>modarchi</module>
-    <module>modarchi-api</module>
+    <module>mod-archi</module>
+    <module>mod-archi-api</module>
   </modules>
+  
+  <dependencies>
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>3.8.1</version>
+      <scope>test</scope>
+    </dependency>
+  </dependencies>
 </project>
